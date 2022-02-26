@@ -1,0 +1,18 @@
+{
+    "name": "ohno",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "http://localhost:3978/api/messages",
+            "id": "491e7bd0-ffff-11eb-895a-5f0a666d3ee6",
+            "appId": "04767bc9-69fd-483e-bc5b-5442a3e09bd5",
+            "appPassword": "_1.1GNn1CVf7ILdwVvX5H5-g_20ndrrMhy",
+            "endpoint": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "C:\\Users\\Operaciones_xdata\\Downloads\\BotUltimaVersion\\botprueba2.bot",
+    "overrides": null
+}
